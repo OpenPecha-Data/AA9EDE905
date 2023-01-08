@@ -1,0 +1,19 @@
+id: AA9EDE905
+title: Mindrolling Lineage Prayer
+type: translation
+pechas:
+- IC8F49BCA
+- IE89BAB1C
+source_metadata:
+  languages:
+  - en
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 12:39:49.126307
+  last_modified_at: 2023-01-04 12:39:49.126324
+  collections:
+  - Jetsün Mingyur Paldrön
+  - Works of Tibetan Masters
+alignment_to_base:
+  IC8F49BCA/2266: 2C36
+  IE89BAB1C/348D: 2C36
